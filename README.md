@@ -1,7 +1,8 @@
 # html-parser
 
-HTML parser.
+Isomoriphic HTML parser. 
 
+This parser inspire sax-style HTML parser written by [john resig](http://ejohn.org/files/htmlparser.js).
 
 ## NOTICE
 This project is an experiment.
